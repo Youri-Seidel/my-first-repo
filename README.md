@@ -1,2 +1,2 @@
 # my-first-repo
-![foto van mij](img/Foto Youri)
+[foto van mij](img/Foto Youri)
